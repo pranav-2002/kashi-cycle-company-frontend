@@ -1,0 +1,9 @@
+.common__section {
+    background: linear-gradient(rgb(0, 13, 107, 0.6), rgb(0, 13, 107, 0.6)),
+      url("https://wallpaper.forfun.com/fetch/7d/7d30d27acad4e019704796aa48b78890.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 80px 0px;
+  }
+  
